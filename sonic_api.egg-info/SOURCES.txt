@@ -1,0 +1,8 @@
+setup.py
+chatai/_init_.py
+chatai/chat.py
+sonic_api.egg-info/PKG-INFO
+sonic_api.egg-info/SOURCES.txt
+sonic_api.egg-info/dependency_links.txt
+sonic_api.egg-info/not-zip-safe
+sonic_api.egg-info/top_level.txt
