@@ -1,3 +1,4 @@
+![Logo](https://cdn.discordapp.com/attachments/1047795672520339488/1076176039685918760/11_20230217191858.png)
 
 # Chatsonic API
 
