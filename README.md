@@ -21,6 +21,7 @@ print(text)
 ```
 ----
 ```python
+from pychatsonic.chatai.chat import ChatSonic
 import telebot
 
 bot = telebot.TeleBot(token="your_telegram_api_token")
