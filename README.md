@@ -8,6 +8,8 @@ With this adapter, developers can easily create custom chat experiences for thei
 
 (_text writed by this ai_)
 
+## Grab your api key!
+> You need to register in [ChatSonic](https://app.writesonic.com/en/login), and goto the [api control panel](https://app.writesonic.com/ru/settings/api)>. Reveal your api key and paste it to `your_api_key`
 
 ## Demo
 
