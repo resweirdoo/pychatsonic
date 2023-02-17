@@ -18,6 +18,23 @@ text = chat.ask("Hello!")
 
 print(text)
 ```
+----
+```python
+import telebot
+
+bot = telebot.TeleBot(token="your_telegram_api_token")
+chat = ChatSonic("your_api_key", "en")
+
+@bot.message_handler(content_types=["text"]):
+def cmd_ai(message):
+    text = chat.ask(message.text)
+    bot.send_message(message.chat_id, text)
+
+bot.infinity_polling() 
+'''Warning! This code may not work!'''
+
+```
+
 
 
 ## Authors
