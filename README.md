@@ -28,7 +28,7 @@ print(text)
 Install my-project with git
 
 ```bash
-  pip install sonic-api==0.0
+  git clone https://github.com/resweirdoo/chat-ai
 ```
     
 ## Donate
