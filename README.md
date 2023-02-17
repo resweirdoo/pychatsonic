@@ -49,7 +49,7 @@ bot.infinity_polling()
 Install my-project with git
 
 ```bash
-  git clone https://github.com/resweirdoo/chat-ai
+  git clone https://github.com/RCsource/pychatsonic
 ```
     
 ## Donate
