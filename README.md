@@ -11,7 +11,7 @@ With this adapter, developers can easily create custom chat experiences for thei
 ## Demo
 
 ```python 
-from chat import ChatSonic
+from pychatsonic.chatai.chat import ChatSonic
 
 chat = ChatSonic("your_api_key", "en")
 text = chat.ask("Hello!")
