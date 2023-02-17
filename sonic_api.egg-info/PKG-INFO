@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: sonic-api
-Version: 0.0
-Summary: Python adapter for chatsonic api
-Author-email: weirdoo145@gmail.com
-Requires: requests
-
-./readme.md
