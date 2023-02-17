@@ -53,6 +53,6 @@ Install my-project with git
     
 ## Donate
 
-Hey! I will be so happy if you [buy me a coffee](https://boosty.to/resweirdoo)
+Hey! I will be so happy if you [buy me a coffee☕](https://boosty.to/resweirdoo)
 
 thank you!
