@@ -5,7 +5,7 @@ A python adapter for the Chatsonic API, designed to allow for easy integration a
 The adapter provides a convenient and streamlined way for developers to access the full suite of features offered by the Chatsonic API, including real-time messaging, automated chatbots, and other advanced chat functionalities. 
 With this adapter, developers can easily create custom chat experiences for their users and take advantage of the scalability and reliability offered by the Chatsonic platform. Whether building a simple chatbot or a complex conversational system, the Chatsonic API adapter for Python is a must-have tool for any developer looking to enhance their chat-based applications.
 
-__text writed by chat-ai__
+(_text writed by chat-ai_)
 
 
 ## Demo
