@@ -51,7 +51,7 @@ bot.infinity_polling()
 Install my-project with git
 
 ```bash
-  git clone https://github.com/RCsource/pychatsonic
+git clone https://github.com/RCsource/pychatsonic
 ```
     
 ## Donate
