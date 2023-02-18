@@ -13,7 +13,7 @@ With this adapter, developers can easily create custom chat experiences for thei
 ## Demo
 
 ```python 
-from pychatsonic.chatai.chat import ChatSonic
+from pychatsonic.chat import ChatSonic
 
 chat = ChatSonic("your_api_key", "en")
 text = chat.ask("Hello!").get("message")
@@ -22,7 +22,7 @@ print(text)
 ```
 ----
 ```python
-from pychatsonic.chatai.chat import ChatSonic
+from pychatsonic.chat import ChatSonic
 import telebot
 
 bot = telebot.TeleBot(token="your_telegram_api_token")
