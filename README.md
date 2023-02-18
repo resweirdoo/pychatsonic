@@ -30,7 +30,7 @@ chat = ChatSonic("your_api_key", "en")
 
 @bot.message_handler(content_types=["text"]):
 def cmd_ai(message):
-    text = chat.ask(message.text)
+    text = chat.ask(message.text).get("message")
     bot.send_message(message.chat_id, text)
 
 bot.infinity_polling() 
