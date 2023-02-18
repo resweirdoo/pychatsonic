@@ -47,10 +47,17 @@ bot.infinity_polling()
 
 ## Installation
 
-Install my-project with git
+Install my-project with pip
 
 ```bash
-git clone https://github.com/RCsource/pychatsonic
+pip install pychatsonic
+```
+___
+
+Also you can install it with git
+
+```bash
+git clone https://github.com/RCsource/pychatsonic 
 ```
     
 ## Donate
