@@ -16,7 +16,7 @@ With this adapter, developers can easily create custom chat experiences for thei
 from pychatsonic.chat import ChatSonic
 
 chat = ChatSonic("your_api_key", "en")
-text = chat.ask("Hello!").get("message")
+text = chat.ask("Hello!")
 
 print(text)
 ```
@@ -30,7 +30,7 @@ chat = ChatSonic("your_api_key", "en")
 
 @bot.message_handler(content_types=["text"]):
 def cmd_ai(message):
-    text = chat.ask(message.text).get("message")
+    text = chat.ask(message.text)
     bot.send_message(message.chat_id, text)
 
 bot.infinity_polling() 
