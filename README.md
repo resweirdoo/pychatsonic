@@ -43,7 +43,6 @@ bot.infinity_polling()
 ## Authors
 
 - [@resweirdoo](https://www.github.com/resweirdoo) (or i)
-- [Distributed by RCSOURCE](https://github.com/RCsource)
 
 ## Installation
 
