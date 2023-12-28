@@ -64,3 +64,4 @@ git clone https://github.com/RCsource/pychatsonic
 Hey! I will be so happy if you [buy me a coffee☕](https://boosty.to/resweirdoo)
 
 thank you!
+> also view https://github.com/setscript/openrex
